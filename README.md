@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Angelo%20John%20S.%20Calleja&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Angular%20Specialist%20|%20Laravel%20Expert&descAlignY=50&descSize=20" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rance%20Christian%20Linezo&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Angular%20Specialist%20|%20Laravel%20Expert&descAlignY=50&descSize=20" alt="header" />
 
   <div style="margin: 20px 0">
-    <a href="https://facebook.com/0987kll" target="_blank">
+    <a href="https://facebook.com/09151149155" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
     </a>
     <a href="https://instagram.com/tenshio__" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="mailto:angelojohn0987@gmail.com">
-      <img src="https://img.shields.io/badge/angelojohn0987@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <a href="mailto:rancelinezotech@gmail.com">
+      <img src="https://img.shields.io/badge/rancelinezotech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://www.google.com/maps/place/Legazpi+City" target="_blank">
       <img src="https://img.shields.io/badge/Legazpi%20City-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
@@ -128,7 +128,7 @@ Passionate Full Stack Developer with a strong focus on creating scalable and hig
   
   <img src="https://github-profile-trophy.vercel.app/?username=gelogrammer&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gelogrammer&show_icons=true&count_private=true&hide_border=true&title_color=70A5FD&icon_color=70A5FD&text_color=c9d1d9&bg_color=0d1117" alt="Angelo John S. Calleja github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gelogrammer&show_icons=true&count_private=true&hide_border=true&title_color=70A5FD&icon_color=70A5FD&text_color=c9d1d9&bg_color=0d1117" alt="Rance Christian Linezo github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelogrammer&layout=compact&hide_border=true&title_color=70A5FD&text_color=c9d1d9&bg_color=0d1117" />
 
